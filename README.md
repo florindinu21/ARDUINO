@@ -1,6 +1,5 @@
 1.Numele jocului “ Nava spatiala” (Spaceships)
-2.
-START: se apasa un buton,dupa care pe matrice va aparea scris "PUSH".Cand se apasa pe Joy-Stick, scrisul dispare,se aprinde LCD-ul si incepe jocul.
+2.START: se apasa un buton,dupa care pe matrice va aparea scris "PUSH".Cand se apasa pe Joy-Stick, scrisul dispare,se aprinde LCD-ul si incepe jocul.
 SFARSIT: la final apare scorul pe LCD screen.LCD-ul se stinge dupa ce se apasa iar pe JoyStick
 Dificultatea e progresiva: creste odata cu evolutia jocului
 
