@@ -19,3 +19,6 @@ Dificultatea e progresiva: creste odata cu evolutia jocului
 -codul va fi scris folosind stilul snake_case
 
 
+LINK VIDEO->   https://drive.google.com/file/d/1UNN80SnvoeLpQ90ZFfMF4Jxp3CDMiWkr/view
+
+
